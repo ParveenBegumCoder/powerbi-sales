@@ -199,7 +199,7 @@ This project demonstrates practical knowledge of:
 
 Parveen Begum Sk
 
-GitHub: "https://github.com/ParveenBegumCoder"
+GitHub: "https://github.com/ParveenBegumCoder/powerbi-sales"
 
 ⭐ Project
 
